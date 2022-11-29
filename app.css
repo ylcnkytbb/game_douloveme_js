@@ -1,0 +1,39 @@
+#question{
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Sen', sans-serif;
+}
+#yes{
+    padding: 1rem 2rem ;
+    cursor: -webkit-grab;
+}
+#no{
+    margin-left: 70px;
+    padding: 1rem 2rem ;
+    cursor: -webkit-grab;
+}
+.btn{
+    background-color: royalblue;
+}
+#question{
+    text-align:center ;
+}
+#yes:hover{ 
+    background-color: rgb(247, 74, 203);
+    opacity: 0.4;
+}
+#no:hover{
+    background-color: rgb(153, 39, 39);
+}
+.body{
+    background-color: rgba(152, 251, 152, 0.688);
+
+}
+.element.style{
+transform: translate(82px, 133px)!important;
+}
+.btn{
+    background-color: rgb(7, 93, 32);
+}
+#yes::after {
+
+}
